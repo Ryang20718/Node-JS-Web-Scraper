@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "d3-dsv": "^1.0.8",
+    "nightmare": "^3.0.0"
+  }
+}
