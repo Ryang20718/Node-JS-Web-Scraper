@@ -1,3 +1,3 @@
 # Node-JS-Web-Scraper
 
-Web Scraper utilizing NightMare Framework with Node JS
+Web Scraper utilizing NightMare Library coupled with Node JS
